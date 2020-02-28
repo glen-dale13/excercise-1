@@ -6,21 +6,7 @@
   <body>
     <h1>Flynn's Retro Computers</h1>
 
-    <!--
-      "Flynn's Retro Computers" should be used in the head (in title)
-      and body (in h1). A user will the the former in the browser tab,
-      the latter in the browser window.
-    -->
-
     <p>Welcome to Flynn's Retro Computers, a web shop dedicated to old-school minicomputers from the 1970s and 1980s. We've got the most complete catalog anywhere on the Internet!</p>
-
-
-    <!--
-      "Our Products" and "Coming Soon" are different sections of our
-      page. "Microcomputers" and "Accessories" are subsections of
-      "Our Products". This is why we use h2 for the former two, h3 for
-      the latter.
-    -->
 
 
     <h2>Our Products</h2>
@@ -33,13 +19,6 @@
       <li><a href="commodore-64.html">Commodore 64</a></li>
       <li><a href="trs-80.html">TRS 80</a></li>
     </ul>
-
-    <!--
-      Notice the files we link to above are lowercase and contain no
-      spaces. This is on purpose. It's a best practice to avoid broken
-      links. (Web servers do not really like spaces and are
-      case-sensitive.)
-    -->
 
     <h3>Accessories</h3>
 
