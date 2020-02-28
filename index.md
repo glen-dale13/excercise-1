@@ -17,6 +17,7 @@
       <li><a href="apple-ii.html">Apple II</a></li>
       <li><a href="commodore-64.html">Commodore 64</a></li>
       <li><a href="trs-80.html">TRS 80</a></li>
+      <li><a href="commodore-pet.jpg">Commodore Pet</a></li>
     </ul>
 
    <h3>Accessories</h3>
